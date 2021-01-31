@@ -5,5 +5,7 @@ Used Python with OpenCV
 
 Demonstrating thet capabilities of QR codes
 
+All of the code and .txt files are in the .zip
+
 
 
